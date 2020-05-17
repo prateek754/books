@@ -1,0 +1,16 @@
+# Site settings
+title: Digital Bookshelf || Praeek Sahu
+email: prateek@prateeksahu.com
+description: >
+  Books I have read. Mostly about science fiction and life. I will be adding the academic books as well. Those are
+  the books I have read most.
+baseurl: ""
+url: "http://prateeksahu.com"
+
+# Collections
+#collections:
+#  books:
+#    output: false
+
+sass:
+  style: compressed
